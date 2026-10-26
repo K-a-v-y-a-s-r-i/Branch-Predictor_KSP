@@ -1,0 +1,21 @@
+traces/164.gzip/gzip.trace.bz2                direction   11.294   target   11.913
+traces/175.vpr/vpr.trace.bz2                  direction   13.541   target   14.077
+traces/176.gcc/gcc.trace.bz2                  direction   10.188   target   13.337
+traces/181.mcf/mcf.trace.bz2                  direction   16.670   target   17.133
+traces/186.crafty/crafty.trace.bz2            direction    5.878   target    6.271
+traces/197.parser/parser.trace.bz2            direction    9.013   target    9.224
+traces/201.compress/compress.trace.bz2        direction    7.520   target    7.541
+traces/202.jess/jess.trace.bz2                direction    0.935   target    1.476
+traces/205.raytrace/raytrace.trace.bz2        direction    2.229   target    4.427
+traces/209.db/db.trace.bz2                    direction    3.508   target    5.023
+traces/213.javac/javac.trace.bz2              direction    1.704   target    2.595
+traces/222.mpegaudio/mpegaudio.trace.bz2      direction    1.692   target    2.501
+traces/227.mtrt/mtrt.trace.bz2                direction    2.382   target    3.898
+traces/228.jack/jack.trace.bz2                direction    2.292   target    3.697
+traces/252.eon/eon.trace.bz2                  direction    1.222   target    1.291
+traces/253.perlbmk/perlbmk.trace.bz2          direction    1.653   target    1.763
+traces/254.gap/gap.trace.bz2                  direction    3.844   target    4.761
+traces/255.vortex/vortex.trace.bz2            direction    0.834   target    1.386
+traces/256.bzip2/bzip2.trace.bz2              direction    0.045   target    0.051
+traces/300.twolf/twolf.trace.bz2              direction   20.180   target   20.516
+average direction MPKI: 5.831   average target MPKI: 6.644
